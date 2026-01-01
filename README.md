@@ -21,5 +21,5 @@ and learning how real-world software systems are designed.
 Selected academic and personal projects are pinned below 👇
 
 ## 📫 Contact
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/yourname
+- Email: yeminmyat004@gmail.com
+- LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/ye-min-myat-86537430a/)
