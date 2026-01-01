@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ye Min 👋
 
-<!--
-**YeMinMyat16/YeMinMyat16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate interested in
+Software Engineering, Web Development, and Data-Oriented Systems.
 
-Here are some ideas to get you started:
+I enjoy building structured applications, working with data,
+and learning how real-world software systems are designed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Interests
+- Backend & full-stack web development
+- Data analysis and machine learning fundamentals
+- System design and problem-solving
+
+## 🛠️ Tech Stack
+- Languages: Python, JavaScript, Java, SQL
+- Web: HTML, CSS, React, Express
+- Data: Pandas, basic ML models, visualization
+- Tools: Git, Linux, Docker, Jupyter
+
+## 📌 Featured Work
+Selected academic and personal projects are pinned below 👇
+
+## 📫 Contact
+- Email: your.email@example.com
+- LinkedIn: linkedin.com/in/yourname
