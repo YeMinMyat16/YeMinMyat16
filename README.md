@@ -24,8 +24,6 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="40" />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" />
   <img width="20" />
   <br><br>
